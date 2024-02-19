@@ -18,7 +18,7 @@ Game of Life", mais informaçoes em :
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 O código precisa ser compilado da seguinte forma :
-    > gcc <ficheiro>.c -o <ficheiro>.exe lncurses
+    > gcc <ficheiro>.c -o <ficheiro>.exe -lncurses
 
 * Provavelmente será necessário instalar a 
 biblioteca do lncurses com o comando :
@@ -86,7 +86,7 @@ This code implements an alternative version of the
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 The code needs to be compiled as seen below :
-    > gcc <file>.c -o <file>.exe lncurses
+    > gcc <file>.c -o <file>.exe -lncurses
 
 * You will likely need to install the lncurses'
 library with the command :

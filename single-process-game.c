@@ -133,7 +133,7 @@ void gridInit(char **grid, int pattern)
     switch (pattern)
     {
     case 0:
-      fp = fopen("./patterns/BEACON.bin", "rb");
+      fp = fopen("./patterns/BLINKER.bin", "rb");
       break;
     case 1:
       fp = fopen("./patterns/TOAD.bin", "rb");
