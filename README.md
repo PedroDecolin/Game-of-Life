@@ -33,7 +33,7 @@ This is was made just with C code, so the only thing that you need is a C compil
 ### Clone
 To clone the project, run
 
-    git clone https://github.com/PedroDecolin/repo-name.git
+    git clone https://github.com/PedroDecolin/Game-of-Life.git
 
 ### Usage
 Now, just compile the version _single_ or _mult_ that you want
